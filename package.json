@@ -1,0 +1,18 @@
+{
+  "name": "Calculator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "16.6.1",
+    "react-native": "^0.57.7",
+    "react-native-gesture-handler": "^1.0.10",
+    "react-native-slide-view": "^1.0.2",
+    "react-native-swipe-gestures": "^1.0.3",
+    "react-navigation": "^3.0.8",
+    "react-navigation-transitions": "^1.0.6"
+  }
+}
